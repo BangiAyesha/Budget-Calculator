@@ -1,0 +1,20 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "fname": "Ayesha",
+      "lname": "Bangi",
+      "email": "ayesha@gmail.com",
+      "username": "Ayesha123",
+      "password": "Ayesha@123"
+    },
+    {
+      "fname": "Ayesha",
+      "lname": "Bangi",
+      "username": "Ayesha12",
+      "email": "a@gmail.com",
+      "password": "Ayesha@12",
+      "id": 2
+    }
+  ]
+}
